@@ -1,0 +1,20 @@
+NET "clk" LOC = "P36";
+NET "ps2_clk" LOC = "P85";
+NET "ps2_data" LOC = "P86";
+
+NET "an<3>" LOC = "P26";
+NET "an<2>" LOC = "P27";
+NET "an<1>" LOC = "P32";
+NET "an<0>" LOC = "P33";
+
+NET "seg<6>" LOC = "P42";
+NET "seg<5>" LOC = "P24";
+NET "seg<4>" LOC = "P22";
+NET "seg<3>" LOC = "P17";
+NET "seg<2>" LOC = "P16";
+NET "seg<1>" LOC = "P43";
+NET "seg<0>" LOC = "P23";
+
+NET "ps2_code_new" LOC = "P10";
+NET "kontrol" LOC = "P4";
+//NET "uy" LOC = "P3";
